@@ -1,5 +1,5 @@
 # Classicmodels exercises1 
-
+/*
 - Table with office codes and their phone numbers.
 - Find employees with email ending in ".es".
 - Customers without a state.
